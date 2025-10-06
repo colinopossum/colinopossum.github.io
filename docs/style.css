@@ -1,3 +1,8 @@
+/* header styling */
+header {
+    margin: auto;
+}
+
 /* body styling */
 body {
     font-family: Liberation, monospace;
@@ -52,7 +57,7 @@ div.absolute {
 }
 
 /* centering webpage */
-.container {
+.home {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -60,4 +65,9 @@ div.absolute {
   width: 900px;
   height: 100%;
   z-index: 1;
+}
+
+.containerimage {
+    border: 1px;
+
 }
