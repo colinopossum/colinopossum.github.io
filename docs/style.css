@@ -1,6 +1,7 @@
 /* header styling */
 header {
     text-align: center;
+    width: fit-content;
 }
 
 /* body styling */
