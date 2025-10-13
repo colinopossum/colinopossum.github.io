@@ -1,5 +1,6 @@
 /* header styling */
 header {
+    padding-top: 100px;
     text-align: center;
     width: fit-content;
 }
@@ -8,7 +9,7 @@ header {
 body {
     font-family: Liberation, monospace;
     background-color: black;
-    padding-top: 100;
+
 }
 
 /* h styling */
