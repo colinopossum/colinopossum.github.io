@@ -7,7 +7,7 @@ header {
 /* body styling */
 body {
     font-family: Liberation, monospace;
-    background-color: darkolivegreen;
+    background-color: black;
 }
 
 /* h styling */
@@ -22,50 +22,13 @@ p {
     text-align: center;
 }
 
-/* list styling & nav bar set up*/
-ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-        background-color: black;
-}
-
-ul li {
-        float: left;
-}
-
-ul li a {
-        display: block;
-        color: white;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-}
-
-ul li a:hover {
-        background-color: #111111;
-}
-
 /* centering webpage */
 .home {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 900px;
+  width: 500px;
   height: 100%;
   z-index: 1;
-}
-
-#statuscafe {
-    padding: .5em;
-    background-color: azure;
-    border: 1px solid midnightblue;
-}
-#statuscafe-username {
-    margin-bottom: .5em;
-}
-#statuscafe-content {
-    margin: 0 1em 0.5em 1em;
 }
