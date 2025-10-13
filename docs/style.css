@@ -10,6 +10,7 @@ header {
 body {
     font-family: Liberation, monospace;
     background-color: black;
+    padding-top: 100;
 }
 
 /* h styling */
