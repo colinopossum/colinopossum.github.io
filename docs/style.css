@@ -28,7 +28,13 @@ img {
     width: 50%; /* Optional: set a specific width */
 }
 
+/* ul styling */
+ul {
+    color:orangered
+}
+
 /* centering webpage */
+
 .home {
   position: absolute;
   top: 50%;
