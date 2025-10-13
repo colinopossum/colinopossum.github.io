@@ -22,11 +22,7 @@ p {
 }
 
 /*img styling */
-img {
-    text-align: center;
-    padding-left: 300;
-    padding-right: 300;
-}
+
 /* centering webpage */
 .home {
   position: absolute;
@@ -36,4 +32,5 @@ img {
   width: 650px;
   height: 100%;
   z-index: 1;
+  text-align: center;
 }
