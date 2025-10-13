@@ -21,6 +21,10 @@ p {
     color: darkgoldenrod;
 }
 
+/*img styling */
+img {
+    text-align: center;
+}
 /* centering webpage */
 .home {
   position: absolute;
