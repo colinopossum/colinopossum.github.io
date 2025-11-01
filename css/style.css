@@ -57,5 +57,6 @@ li a {
 .text {
     display:flex;
     align-items: center;
-    height:50%
+    height:50%;
+    width:50%
 }
